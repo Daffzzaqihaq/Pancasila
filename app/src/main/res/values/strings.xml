@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Pancasila</string>
+
+    <string-array name="nama">
+        <item>Ketuhanan Yang Maha Esa</item>
+        <item>Kemanusiaan yang Adil dan Beradab</item>
+        <item>Persatuan Indonesia</item>
+        <item>Kerakyatan yang Dipimpin oleh Hikmat Kebijaksanaan dalam Permusyawaratan/Perwakilan</item>
+        <item>Keadilan Sosial bagi Seluruh Rakyat Indonesia</item>
+    </string-array>
+
+    <string-array name="detail">
+        <item>Sila pertama dalam pancasila adalah Ketuhanan Yang Maha Esa, berlambang bintang emas dengan lima sudut serta berlatar belakang hitam. Bintang emas bisa diartikan bahwa Tuhan yang Maha Esa sebagai cahaya bagi kehidupan manusia.</item>
+        <item>Sila ke dua adalah Kemanusiaan yang Adil dan Beradab, yang dilambangkan dengan tali rantai bermata bulatan dan persegi di bagian kiri bawah perisai berlatar merah. Rantai tersebut terdiri dari mata rantai yang berbentuk segi empat dan lingkaran yang saling berkaitan membentuk lingkaran.</item>
+        <item>Sila ke 3 adalah Persatuan Indonesia, dilambangkan dengan pohon beringin di bagian kiri atas perisai berlatar putih. Pohon beringin merupakan sebuah pohon besar, hal ini mencerminkan Bangsa Indonesia yang menjadi tempat berteduh bagi seluruh rakyat Indonesia. Pohon beringin juga berakar tunjang – sebuah akar tunggal panjang yang tumbuh sangat dalam dbawah tanah, hal ini mencerminkan kesatuan dan persatuan Bangsa Indonesia.</item>
+        <item>Sila ke 4 adalah Kerakyatan yang Dipimpin oleh Hikmat Kebijaksanaan dalam Permusyawaratan/Perwakilan yang dilambangkan dengan kepala banteng di bagian kanan atas perisai berlatar merah. Makna lambang ini Banteng merupakan hewan sosial yang kuat dan sering berkelompok atau berkumpul, ini menggambarkan bahwa masyarakat harus bermusyawarah dengan berkumpul atau mendiskusikan sesuatu dalam mengambil keputusan.</item>
+        <item>Sila ke 5 adalah Keadilan Sosial bagi Seluruh Rakyat Indonesia yang dilambangkan dengan kapas dan padi di bagian kanan bawah perisai berlatar putih. Padi dan kapas adalah kebutuhan utama semua masyarakat Indonesia tanpa melihat status dan kedudukannya, padi melambangkan makanan pokok, sedangkan kapas melambangkan sandang / pakaian. Ini mencerminkan persamaan sosial, dimana tidak ada perbedaan dan kesenjangan sosial/ekonomi antara satu dengan yang lainnya.</item>
+    </string-array>
+</resources>
